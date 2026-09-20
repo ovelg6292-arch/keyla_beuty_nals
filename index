@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang=“es”>
+<head>
+    <meta charset=“UTF-8”>
+    <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+    <title>Keyla Beauty Nails</title>
+    
+    <!-- Aquí puedes enlazar tu archivo CSS más adelante -->
+    <!-- <link rel=“stylesheet” href=“style.css”> -->
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenidos a Keyla Beauty Nails</h1>
+        <nav>
+            <ul>
+                <li><a href=“#servicios”>Servicios</a></li>
+                <li><a href=“#galeria”>Galería</a></li>
+                <li><a href=“#contacto”>Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id=“servicios”>
+            <h2>Nuestros Servicios</h2>
+            <p>Aquí puedes agregar información sobre manicura, pedicura, etc.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Keyla Beauty Nails. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
